@@ -1,0 +1,1 @@
+git ignore is used to ignore some files
