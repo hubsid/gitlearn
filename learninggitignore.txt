@@ -1,1 +1,3 @@
 git ignore is used to ignore some files
+staged changes
+unstaged changes
