@@ -2,5 +2,6 @@ commit for merge
 changes added by mergebranch
 enlargening the file
 for future
+LINE ADDED IN MERGEBRANCH
 changes 
 for testing merge
