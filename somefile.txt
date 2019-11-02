@@ -1,3 +1,6 @@
 commit for merge
 changes added by mergebranch
-----
+enlargening the file
+for future
+changes 
+for testing merge
