@@ -1,7 +1,7 @@
 commit for merge
 changes added by mergebranch
 enlargening the file
-for future MERGEBRANCH CHANGE
+for future MERGEBRANCH CHANGEa
 LINE ADDED for this file INTO THIS FILE BY MERGEBANKS
 changes 
 for testing merge MASTER CHANGE
