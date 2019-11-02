@@ -1,2 +1,1 @@
-version in master
-addition by master, that is divergent from develop
+commit for merge
